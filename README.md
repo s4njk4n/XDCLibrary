@@ -59,7 +59,7 @@ Guides for upgrading and migrating XDC nodes to ensure compatibility and perform
 
 ## Contributing
 
-Have an article or resource to add to the XDC Library? Feel free to submit a pull request or open an issue with your suggestions. Let's build a comprehensive knowledge base for the XDC Network community!
+Have an article or resource to add to the XDC Library? Feel free to submit a pull request or open an issue with your suggestions.
 
 ## License
 
