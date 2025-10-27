@@ -59,7 +59,7 @@ Guides for upgrading and migrating XDC nodes to ensure compatibility and perform
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). All linked articles and resources are subject to their respective authors' terms.
+This repository is licensed under the [MIT License](LICENSE). All linked articles and resources are subject to the author's terms.
 
 ## Contact
 
