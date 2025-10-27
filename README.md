@@ -1,6 +1,6 @@
 # XDC Library
 
-Welcome to the **XDC Library**, a curated collection of articles and resources focused on the XDC Network. This repository provides organized, accessible insights to help developers, node operators, and enthusiasts deepen their understanding of XDC technology, node management, and related tools. Explore the topics below to find practical guides, tutorials, and tools for working with the XDC Network.
+Welcome to the **XDC Library**, a curated collection of my articles and resources focused on the XDC Network. This repository provides organized, accessible insights to help developers, node operators, and enthusiasts deepen their understanding of XDC technology, node management, and related tools. Explore the topics below to find practical guides, tutorials, and tools for working with the XDC Network.
 
 _Note that over time the nodes are iterated to newer versions so please check the currency of material before implementing._
 
@@ -56,10 +56,6 @@ Guides for upgrading and migrating XDC nodes to ensure compatibility and perform
 - [How to Migrate a Full-Node from a Local Ubuntu 20.04 One-Click Installer to Docker on the Same Machine](https://medium.com/@s4njk4n/xinfin-xdc-network-how-to-migrate-a-full-node-from-a-local-ubuntu-20-04-fe7af8ab38bd)
 
 ---
-
-## Contributing
-
-Have an article or resource to add to the XDC Library? Feel free to submit a pull request or open an issue with your suggestions.
 
 ## License
 
