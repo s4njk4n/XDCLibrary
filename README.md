@@ -31,6 +31,7 @@ Resources for setting up, securing, and maintaining XDC Network nodes, including
 - [How to Run a 2nd XDC Network Node on a LAN that has only a Single Existing Public IP Address](https://www.xdc.dev/s4njk4n/how-to-run-a-2nd-xdc-network-node-on-a-lan-with-a-single-existing-public-ip-address-3ib7)
 - [XDC Full Node Load Balancer Resource 1](https://github.com/s4njk4n/publicnexus.xdcchain.xyz)
 - [XDC Full Node Load Balancer Resource 2](https://github.com/s4njk4n/publicnexus_updated_endpoints)
+- [XDC Node Installation Script for Ubuntu 22.04 Onwards](https://raw.githubusercontent.com/s4njk4n/XDCLibrary/main/install_xdc_node_v1.0.sh)
 
 ## Managing Peer Count Issues
 
