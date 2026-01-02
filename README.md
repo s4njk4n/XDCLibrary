@@ -37,6 +37,7 @@ Resources for setting up, securing, and maintaining XDC Network nodes, including
 
 Guides to troubleshoot and improve peer connectivity for XDC Network nodes.
 
+- [XDC Node Peering: A Comprehensive Guide](https://www.xdc.dev/s4njk4n/xdc-node-peering-a-comprehensive-guide-1ibc)
 - [How to Improve the Peer-count of your XDC Network Full Node](https://medium.com/@s4njk4n/how-to-improve-the-peer-count-of-your-xinfin-full-node-7372541528b5)
 - [Masternodes not Gaining Peers](https://www.xdc.dev/s4njk4n/solved-masternodes-not-gaining-peers-466b)
 
