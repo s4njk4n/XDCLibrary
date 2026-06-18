@@ -42,7 +42,7 @@ Archive
 Guides to troubleshoot and improve peer connectivity for XDC Network nodes.
 
 - [XDC Node Peering: A Comprehensive Guide](https://www.xdc.dev/s4njk4n/xdc-node-peering-a-comprehensive-guide-1ibc)
-- [Maintaining Peer-Count Automatically 2026](https://www.xdc.dev/s4njk4n/running-an-xdc-node-behind-cgnat-34p2)
+- [Maintaining Peer-Count Automatically 2026](https://github.com/s4njk4n/XDC_Node_Behind_CGNAT)
 
 Archive
 - [ARCHIVE - How to Improve the Peer-count of your XDC Network Full Node](https://medium.com/@s4njk4n/how-to-improve-the-peer-count-of-your-xinfin-full-node-7372541528b5)
